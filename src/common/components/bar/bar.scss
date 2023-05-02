@@ -1,0 +1,11 @@
+.bar{
+    height: 500px;
+    width: 25px;
+    background-color: rgb(0, 123, 255);
+    border-radius: 2px;
+    &__value{
+        text-align: center;
+        font-size: 16px;
+        color: white;
+    }
+}
